@@ -1,6 +1,5 @@
-- 👋 #Hi, I’m **Tahmid Nishat**
-- 👀 I’m interested in Web Development.
-- 
+# Hi I am Tahmid Nishat
+- *I like to play with Web.*
 
 
 <!---
